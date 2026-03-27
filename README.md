@@ -1,2 +1,2 @@
-# tippykenzie.github.io
+# Valarithmetic.github.io
 My portfolio website
